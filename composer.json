@@ -1,0 +1,20 @@
+{
+  "name": "leonardoakio/facial-validation",
+  "description": "A Facial Validator for Laravel or Legacy application",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "FacialValidator\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Leonardo Akio",
+      "email": "akioleonardo@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/leonardoakio/facial-validation",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
